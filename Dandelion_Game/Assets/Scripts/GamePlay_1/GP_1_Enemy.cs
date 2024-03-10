@@ -1,11 +1,12 @@
+using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.UI;
 
 public class GP_1_Enemy : MonoBehaviour
 {
-	public float Speed;
-	public float Force;
-	public GameObject I;
+    [SerializeField] private float Speed;
+    [SerializeField] private float Force;
+	[SerializeField] private GameObject[] spriteObj = null;
 
 	//private Rigidbody2D m_Rigidbody2D;
 
@@ -19,7 +20,15 @@ public class GP_1_Enemy : MonoBehaviour
 	}
 	void OnTriggerEnter2D(Collider2D other){
 		if (other.gameObject.tag == "Destroy"){ 
-			Destroy(I);
+			Destroy(this.gameObject);
 		}
 	}
+	public void SetRandomSprite()
+	{
+		for(int i = 0; i < Speed; i++)
+		{
+			spriteObj[i].SetActive(false);
+        }
+        spriteObj[Random.Range(0, spriteObj.Length)].SetActive(true);
+    }
 }

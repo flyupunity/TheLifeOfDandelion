@@ -97,7 +97,7 @@ public class GP_3_Player : MonoBehaviour
         if(Health > 0f && Flower > 0f && Progress < MProgress) Progress += q;
     }
     public void Win(){
-	SceneManager.LoadScene(7);
+	SceneManager.LoadScene("Cut-Scene_4");
     }
     public void GameOver(){
 	Time.timeScale = 0f;

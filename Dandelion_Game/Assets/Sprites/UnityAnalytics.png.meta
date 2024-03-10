@@ -1,0 +1,4190 @@
+fileFormatVersion: 2
+guid: 5388dbf55490feb4595ec3c310d1693f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -571103613619022824
+    second: UnityAnalytics_0
+  - first:
+      213: 3174599870453028914
+    second: UnityAnalytics_1
+  - first:
+      213: 4598382914879543274
+    second: UnityAnalytics_2
+  - first:
+      213: -3521117891550610970
+    second: UnityAnalytics_3
+  - first:
+      213: -493088966459947299
+    second: UnityAnalytics_4
+  - first:
+      213: 1177317134278582798
+    second: UnityAnalytics_5
+  - first:
+      213: 5357136439035464799
+    second: UnityAnalytics_6
+  - first:
+      213: 4360762141908744583
+    second: UnityAnalytics_7
+  - first:
+      213: 3715345200800597585
+    second: UnityAnalytics_8
+  - first:
+      213: 5104233815446314268
+    second: UnityAnalytics_9
+  - first:
+      213: -4148448207364469968
+    second: UnityAnalytics_10
+  - first:
+      213: 8902214811122126020
+    second: UnityAnalytics_11
+  - first:
+      213: -4340122576711326671
+    second: UnityAnalytics_12
+  - first:
+      213: -2077851657784379027
+    second: UnityAnalytics_13
+  - first:
+      213: 8178270435507062721
+    second: UnityAnalytics_14
+  - first:
+      213: 5549601039674311555
+    second: UnityAnalytics_15
+  - first:
+      213: 3079746205728257332
+    second: UnityAnalytics_16
+  - first:
+      213: 2194541175966318386
+    second: UnityAnalytics_17
+  - first:
+      213: -2392518726911382173
+    second: UnityAnalytics_18
+  - first:
+      213: 3680812276124426722
+    second: UnityAnalytics_19
+  - first:
+      213: -4972862692086868187
+    second: UnityAnalytics_20
+  - first:
+      213: -8393132961512411857
+    second: UnityAnalytics_21
+  - first:
+      213: -629407801327914512
+    second: UnityAnalytics_22
+  - first:
+      213: 4948301519688432175
+    second: UnityAnalytics_23
+  - first:
+      213: 1079333671868487259
+    second: UnityAnalytics_24
+  - first:
+      213: 2242307945846337053
+    second: UnityAnalytics_25
+  - first:
+      213: 1776650197146618069
+    second: UnityAnalytics_26
+  - first:
+      213: -1786016442085926838
+    second: UnityAnalytics_27
+  - first:
+      213: 3484879839083903858
+    second: UnityAnalytics_28
+  - first:
+      213: -4111770315652878177
+    second: UnityAnalytics_29
+  - first:
+      213: 3617517630615607723
+    second: UnityAnalytics_30
+  - first:
+      213: -6205045017801792721
+    second: UnityAnalytics_31
+  - first:
+      213: -6495470701631874395
+    second: UnityAnalytics_32
+  - first:
+      213: -3622791700316854947
+    second: UnityAnalytics_33
+  - first:
+      213: 3176569056783483748
+    second: UnityAnalytics_34
+  - first:
+      213: 3768708826833261750
+    second: UnityAnalytics_35
+  - first:
+      213: 6029855734582433691
+    second: UnityAnalytics_36
+  - first:
+      213: 2507578156486536202
+    second: UnityAnalytics_37
+  - first:
+      213: 1715925907864436287
+    second: UnityAnalytics_38
+  - first:
+      213: -6460173493540898523
+    second: UnityAnalytics_39
+  - first:
+      213: -1078687941284544251
+    second: UnityAnalytics_40
+  - first:
+      213: 5453218217481173336
+    second: UnityAnalytics_41
+  - first:
+      213: 8264005310885060202
+    second: UnityAnalytics_42
+  - first:
+      213: -193576292952337864
+    second: UnityAnalytics_43
+  - first:
+      213: 8694696056242542947
+    second: UnityAnalytics_44
+  - first:
+      213: -3987192394495461056
+    second: UnityAnalytics_45
+  - first:
+      213: 6427539426328655017
+    second: UnityAnalytics_46
+  - first:
+      213: -4437413106101905786
+    second: UnityAnalytics_47
+  - first:
+      213: 7263898560834874037
+    second: UnityAnalytics_48
+  - first:
+      213: 6182354181459800046
+    second: UnityAnalytics_49
+  - first:
+      213: 4030204684279388814
+    second: UnityAnalytics_50
+  - first:
+      213: 7311229027900140666
+    second: UnityAnalytics_51
+  - first:
+      213: -7613453892353055854
+    second: UnityAnalytics_52
+  - first:
+      213: -349478868460913302
+    second: UnityAnalytics_53
+  - first:
+      213: -291826010511249445
+    second: UnityAnalytics_54
+  - first:
+      213: 503599961728512543
+    second: UnityAnalytics_55
+  - first:
+      213: 7393529287133995219
+    second: UnityAnalytics_56
+  - first:
+      213: -4045732096679777090
+    second: UnityAnalytics_57
+  - first:
+      213: -1818422340696156508
+    second: UnityAnalytics_58
+  - first:
+      213: 3990298678289811960
+    second: UnityAnalytics_59
+  - first:
+      213: -4556315826284126098
+    second: UnityAnalytics_60
+  - first:
+      213: 3679728385793154753
+    second: UnityAnalytics_61
+  - first:
+      213: 1816163206479124640
+    second: UnityAnalytics_62
+  - first:
+      213: -8110086992596569553
+    second: UnityAnalytics_63
+  - first:
+      213: 7061987563422465217
+    second: UnityAnalytics_64
+  - first:
+      213: 6858890397167314930
+    second: UnityAnalytics_65
+  - first:
+      213: 8205779137089971357
+    second: UnityAnalytics_66
+  - first:
+      213: -6113247271314843336
+    second: UnityAnalytics_67
+  - first:
+      213: 7018290693609923398
+    second: UnityAnalytics_68
+  - first:
+      213: 5827998002611437832
+    second: UnityAnalytics_69
+  - first:
+      213: -2587432003851112764
+    second: UnityAnalytics_70
+  - first:
+      213: 2811286265666947111
+    second: UnityAnalytics_71
+  - first:
+      213: -409647060430139592
+    second: UnityAnalytics_72
+  - first:
+      213: 572329734971330627
+    second: UnityAnalytics_73
+  - first:
+      213: 7570748333009241420
+    second: UnityAnalytics_74
+  - first:
+      213: -8402489044219391435
+    second: UnityAnalytics_75
+  - first:
+      213: -2504223525919935912
+    second: UnityAnalytics_76
+  - first:
+      213: 8088326724718561223
+    second: UnityAnalytics_77
+  - first:
+      213: -2698253537919892633
+    second: UnityAnalytics_78
+  - first:
+      213: -2884426424020109858
+    second: UnityAnalytics_79
+  - first:
+      213: 3918252216965138240
+    second: UnityAnalytics_80
+  - first:
+      213: -7590977916017991252
+    second: UnityAnalytics_81
+  - first:
+      213: 7591722132558106909
+    second: UnityAnalytics_82
+  - first:
+      213: 8889383476994472770
+    second: UnityAnalytics_83
+  - first:
+      213: -1537334623166772026
+    second: UnityAnalytics_84
+  - first:
+      213: -8170382970165676572
+    second: UnityAnalytics_85
+  - first:
+      213: 6500622741180279444
+    second: UnityAnalytics_86
+  - first:
+      213: -4332980986427053844
+    second: UnityAnalytics_87
+  - first:
+      213: -8672649644647095950
+    second: UnityAnalytics_88
+  - first:
+      213: -5618414592400580114
+    second: UnityAnalytics_89
+  - first:
+      213: -3309499399019218676
+    second: UnityAnalytics_90
+  - first:
+      213: -1105034082441870589
+    second: UnityAnalytics_91
+  - first:
+      213: -7794627549772714331
+    second: UnityAnalytics_92
+  - first:
+      213: 7897498415207258274
+    second: UnityAnalytics_93
+  - first:
+      213: -1684296766516099747
+    second: UnityAnalytics_94
+  - first:
+      213: 379520745848233076
+    second: UnityAnalytics_95
+  - first:
+      213: -4027430281232486579
+    second: UnityAnalytics_96
+  - first:
+      213: 1401149615730082958
+    second: UnityAnalytics_97
+  - first:
+      213: -8632177619013042548
+    second: UnityAnalytics_98
+  - first:
+      213: 2590906094169424972
+    second: UnityAnalytics_99
+  - first:
+      213: -5427235460285537606
+    second: UnityAnalytics_100
+  - first:
+      213: -8679418730541283837
+    second: UnityAnalytics_101
+  - first:
+      213: -6313013873881164278
+    second: UnityAnalytics_102
+  - first:
+      213: -4821576512889840661
+    second: UnityAnalytics_103
+  - first:
+      213: 5273887619329946962
+    second: UnityAnalytics_104
+  - first:
+      213: -7769408546841236189
+    second: UnityAnalytics_105
+  - first:
+      213: -8291192505069547499
+    second: UnityAnalytics_106
+  - first:
+      213: -7663339831559691925
+    second: UnityAnalytics_107
+  - first:
+      213: -1821135203521778309
+    second: UnityAnalytics_108
+  - first:
+      213: 2065719012430463480
+    second: UnityAnalytics_109
+  - first:
+      213: 5837087784822730925
+    second: UnityAnalytics_110
+  - first:
+      213: -1995781908979887774
+    second: UnityAnalytics_111
+  - first:
+      213: 645637947676469668
+    second: UnityAnalytics_112
+  - first:
+      213: 1148271785582576256
+    second: UnityAnalytics_113
+  - first:
+      213: -6411780680147468368
+    second: UnityAnalytics_114
+  - first:
+      213: -518073204665730427
+    second: UnityAnalytics_115
+  - first:
+      213: 2618330837558168243
+    second: UnityAnalytics_116
+  - first:
+      213: -3053947425251098692
+    second: UnityAnalytics_117
+  - first:
+      213: -2963579655945147987
+    second: UnityAnalytics_118
+  - first:
+      213: -7590495845373614107
+    second: UnityAnalytics_119
+  - first:
+      213: -219664748901303105
+    second: UnityAnalytics_120
+  - first:
+      213: 7719466843610227145
+    second: UnityAnalytics_121
+  - first:
+      213: 2065603204688427929
+    second: UnityAnalytics_122
+  - first:
+      213: 6507499131736417609
+    second: UnityAnalytics_123
+  - first:
+      213: 7341275248149765706
+    second: UnityAnalytics_124
+  - first:
+      213: -4391560826621818239
+    second: UnityAnalytics_125
+  - first:
+      213: -4165379892714574206
+    second: UnityAnalytics_126
+  - first:
+      213: -5419276580862797587
+    second: UnityAnalytics_127
+  - first:
+      213: 1869807420205523835
+    second: UnityAnalytics_128
+  - first:
+      213: -1836955919930205291
+    second: UnityAnalytics_129
+  - first:
+      213: 5785623982620433034
+    second: UnityAnalytics_130
+  - first:
+      213: -1389139059006219431
+    second: UnityAnalytics_131
+  - first:
+      213: -5687232432124247596
+    second: UnityAnalytics_132
+  - first:
+      213: -7377559868984671644
+    second: UnityAnalytics_133
+  - first:
+      213: -5338766225872268617
+    second: UnityAnalytics_134
+  - first:
+      213: -1672342491190568329
+    second: UnityAnalytics_135
+  - first:
+      213: -3336286394361809878
+    second: UnityAnalytics_136
+  - first:
+      213: -3560030261645720393
+    second: UnityAnalytics_137
+  - first:
+      213: -4940728774839775328
+    second: UnityAnalytics_138
+  - first:
+      213: -4760228384442628339
+    second: UnityAnalytics_139
+  - first:
+      213: -29940136727032486
+    second: UnityAnalytics_140
+  - first:
+      213: 2533822411600474653
+    second: UnityAnalytics_141
+  - first:
+      213: 675320667899453458
+    second: UnityAnalytics_142
+  - first:
+      213: 3050700465242074721
+    second: UnityAnalytics_143
+  - first:
+      213: 8644896281667065134
+    second: UnityAnalytics_144
+  - first:
+      213: -3396108129941750804
+    second: UnityAnalytics_145
+  - first:
+      213: -525413343605515273
+    second: UnityAnalytics_146
+  - first:
+      213: -3838188719597656327
+    second: UnityAnalytics_147
+  - first:
+      213: 5744340026866966878
+    second: UnityAnalytics_148
+  - first:
+      213: 4794518922808071858
+    second: UnityAnalytics_149
+  - first:
+      213: 4278638838028515520
+    second: UnityAnalytics_150
+  - first:
+      213: 7569506322218210235
+    second: UnityAnalytics_151
+  - first:
+      213: 4181530274633503678
+    second: UnityAnalytics_152
+  - first:
+      213: -6353233831332260318
+    second: UnityAnalytics_153
+  - first:
+      213: -8639688233596904284
+    second: UnityAnalytics_154
+  - first:
+      213: -4396851171627229381
+    second: UnityAnalytics_155
+  - first:
+      213: 2217874926709718655
+    second: UnityAnalytics_156
+  - first:
+      213: -5433172349097579641
+    second: UnityAnalytics_157
+  - first:
+      213: -6112881022599690226
+    second: UnityAnalytics_158
+  - first:
+      213: -6687903910038694598
+    second: UnityAnalytics_159
+  - first:
+      213: -3851844361216385761
+    second: UnityAnalytics_160
+  - first:
+      213: -494932582702578957
+    second: UnityAnalytics_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 13
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 74
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 34
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UnityAnalytics_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 480
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814db4c0a480318f0800000000000000
+      internalID: -571103613619022824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 479
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2389a5e23c17e0c20800000000000000
+      internalID: 3174599870453028914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 565
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7de96d5ecb0df30800000000000000
+      internalID: 4598382914879543274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_3
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 565
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e97addeee9722fc0800000000000000
+      internalID: -3521117891550610970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_4
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 480
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd68d7f82323829f0800000000000000
+      internalID: -493088966459947299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_5
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 479
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e7a822bba65010800000000000000
+      internalID: 1177317134278582798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_6
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 480
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c820e353f585a40800000000000000
+      internalID: 5357136439035464799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_7
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 479
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7893172501a848c30800000000000000
+      internalID: 4360762141908744583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_8
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 479
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1560caf76ce8f8330800000000000000
+      internalID: 3715345200800597585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_9
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 480
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dd63c9c91e5d640800000000000000
+      internalID: 5104233815446314268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_10
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 479
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b4fe6b550cd66c0800000000000000
+      internalID: -4148448207364469968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_11
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 565
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccc72b64350b8b70800000000000000
+      internalID: 8902214811122126020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_12
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 479
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134e77de289c4c3c0800000000000000
+      internalID: -4340122576711326671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_13
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 480
+        width: 94
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d693ec91decf923e0800000000000000
+      internalID: -2077851657784379027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_14
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 480
+        width: 16
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c74a7971ad0f7170800000000000000
+      internalID: 8178270435507062721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_15
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 479
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3830de61eb4240d40800000000000000
+      internalID: 5549601039674311555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_16
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 565
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4353ace5bd47dba20800000000000000
+      internalID: 3079746205728257332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 452
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fb0768293947e10800000000000000
+      internalID: 2194541175966318386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_18
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 479
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d2afbd4e01cced0800000000000000
+      internalID: -2392518726911382173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 479
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e12b4b634fd41330800000000000000
+      internalID: 3680812276124426722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_20
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 480
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5279e599ab7dcfab0800000000000000
+      internalID: -4972862692086868187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_21
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 480
+        width: 15
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d2e6c4a0a958b80800000000000000
+      internalID: -8393132961512411857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_22
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 480
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f17dfe70f4e347f0800000000000000
+      internalID: -629407801327914512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_23
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 479
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2afd82d306eba440800000000000000
+      internalID: 4948301519688432175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_24
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 480
+        width: 15
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56d6d981409afe00800000000000000
+      internalID: 1079333671868487259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_25
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 480
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ee43d42374e1f10800000000000000
+      internalID: 2242307945846337053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_26
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 452
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d84d03f0fde7a810800000000000000
+      internalID: 1776650197146618069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_27
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 479
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a481676328bc637e0800000000000000
+      internalID: -1786016442085926838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_28
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 479
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b348dffb7cc5030800000000000000
+      internalID: 3484879839083903858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_29
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 480
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90b389deae00f6c0800000000000000
+      internalID: -4111770315652878177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_30
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 452
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba95e8d5e11043230800000000000000
+      internalID: 3617517630615607723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_31
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 479
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23ed9a9e6043e9a0800000000000000
+      internalID: -6205045017801792721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_32
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 479
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa5644bfc37bd5a0800000000000000
+      internalID: -6495470701631874395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_33
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 479
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d556167942249bdc0800000000000000
+      internalID: -3622791700316854947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_34
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 452
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463c31a1ab0751c20800000000000000
+      internalID: 3176569056783483748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_35
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 480
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b49645e5b42d4430800000000000000
+      internalID: 3768708826833261750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_36
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 479
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9753a2d7d95ea350800000000000000
+      internalID: 6029855734582433691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_37
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 479
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ca8ef2c05bcc220800000000000000
+      internalID: 2507578156486536202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_38
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 479
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e3627958130d710800000000000000
+      internalID: 1715925907864436287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_39
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 479
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529b9126f6ad856a0800000000000000
+      internalID: -6460173493540898523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_40
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 480
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501cc34580bb701f0800000000000000
+      internalID: -1078687941284544251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_41
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 480
+        width: 15
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85977af8319bdab40800000000000000
+      internalID: 5453218217481173336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_42
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 452
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ede31bb05afa270800000000000000
+      internalID: 8264005310885060202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_43
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 480
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83293ad1367405df0800000000000000
+      internalID: -193576292952337864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_44
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 479
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36993562ff3c9a870800000000000000
+      internalID: 8694696056242542947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_45
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 452
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04975fa64a5aaa8c0800000000000000
+      internalID: -3987192394495461056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_46
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 480
+        width: 15
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4332ebd05333950800000000000000
+      internalID: 6427539426328655017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_47
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 479
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68612295a442b62c0800000000000000
+      internalID: -4437413106101905786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_48
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 479
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5baa80b514d8ec460800000000000000
+      internalID: 7263898560834874037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_49
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 414
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefef8d5f522cc550800000000000000
+      internalID: 6182354181459800046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_50
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 329
+        width: 16
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a9692bec92ee730800000000000000
+      internalID: 4030204684279388814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_51
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 414
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c23877014b67560800000000000000
+      internalID: 7311229027900140666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_52
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 328
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2932b70d504975690800000000000000
+      internalID: -7613453892353055854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_53
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 328
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6db1ec12d6662bf0800000000000000
+      internalID: -349478868460913302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_54
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 414
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfe1432ac933fbf0800000000000000
+      internalID: -291826010511249445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_55
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 328
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f127abb3f752df600800000000000000
+      internalID: 503599961728512543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_56
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 329
+        width: 94
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0a11cc6b71b9660800000000000000
+      internalID: 7393529287133995219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_57
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 329
+        width: 15
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc6101e71caad7c0800000000000000
+      internalID: -4045732096679777090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_58
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 328
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6db2bf38aa3c6e0800000000000000
+      internalID: -1818422340696156508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_59
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 414
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9cc23a183606730800000000000000
+      internalID: 3990298678289811960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_60
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 328
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6028d975e6b4c0c0800000000000000
+      internalID: -4556315826284126098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_61
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 328
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce5f198875011330800000000000000
+      internalID: 3679728385793154753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_62
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 329
+        width: 16
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8925850de443910800000000000000
+      internalID: 1816163206479124640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_63
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 329
+        width: 16
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22f3cc69de237f80800000000000000
+      internalID: -8110086992596569553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_64
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 328
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccb50ed548310260800000000000000
+      internalID: 7061987563422465217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_65
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 414
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7ee7ce97caf2f50800000000000000
+      internalID: 6858890397167314930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_66
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 328
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d942f8b26a8c0e170800000000000000
+      internalID: 8205779137089971357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_67
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 302
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83917210ff1692ba0800000000000000
+      internalID: -6113247271314843336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_68
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 329
+        width: 42
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643ac0b833af56160800000000000000
+      internalID: 7018290693609923398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_69
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 329
+        width: 16
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80147592e4531e050800000000000000
+      internalID: 5827998002611437832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_70
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 329
+        width: 68
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce2af12d48971cd0800000000000000
+      internalID: -2587432003851112764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_71
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 328
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728430bb6f1b30720800000000000000
+      internalID: 2811286265666947111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_72
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 328
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f47cf3b24a05af0800000000000000
+      internalID: -409647060430139592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_73
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 301
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3401c539cd251f700800000000000000
+      internalID: 572329734971330627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_74
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 302
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4585e05f73b01960800000000000000
+      internalID: 7570748333009241420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_75
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 328
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532113a8bbc546b80800000000000000
+      internalID: -8402489044219391435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_76
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 329
+        width: 15
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852bd5b98f53f3dd0800000000000000
+      internalID: -2504223525919935912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_77
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 328
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c706266d428f3070800000000000000
+      internalID: 8088326724718561223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_78
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 301
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763085604b0ed8ad0800000000000000
+      internalID: -2698253537919892633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_79
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 328
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5f78f137578f7d0800000000000000
+      internalID: -2884426424020109858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_80
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 329
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047089ca1ad606630800000000000000
+      internalID: 3918252216965138240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_81
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 329
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1a9e9ddcd67a690800000000000000
+      internalID: -7590977916017991252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_82
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 329
+        width: 16
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11d8909e073b5960800000000000000
+      internalID: 7591722132558106909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_83
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 301
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b7b72ac2f6d5b70800000000000000
+      internalID: 8889383476994472770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_84
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 329
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc4c3d2e4a4aaae0800000000000000
+      internalID: -1537334623166772026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_85
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 328
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5bf582af7fc9e80800000000000000
+      internalID: -8170382970165676572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_86
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 301
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a60eaf0f9d63a50800000000000000
+      internalID: 6500622741180279444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_87
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 329
+        width: 16
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce86e7dffb82ed3c0800000000000000
+      internalID: -4332980986427053844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_88
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 328
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271646d091f84a780800000000000000
+      internalID: -8672649644647095950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_89
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 328
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1a71322b16702b0800000000000000
+      internalID: -5618414592400580114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_90
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 328
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c093711c4db4212d0800000000000000
+      internalID: -3309499399019218676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_91
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 328
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3034a535b512aa0f0800000000000000
+      internalID: -1105034082441870589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_92
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 328
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aee25b8a8be3d390800000000000000
+      internalID: -7794627549772714331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_93
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 328
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a893a447fc899d60800000000000000
+      internalID: 7897498415207258274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_94
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 328
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55087fb30d20a8e0800000000000000
+      internalID: -1684296766516099747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_95
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 328
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cdc298b14544500800000000000000
+      internalID: 379520745848233076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_96
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 329
+        width: 15
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f6c795f71bb18c0800000000000000
+      internalID: -4027430281232486579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_97
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 328
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8444c2e622e17310800000000000000
+      internalID: 1401149615730082958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_98
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 329
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e76a4d038543880800000000000000
+      internalID: -8632177619013042548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_99
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 328
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c440d5d8d5fb4f320800000000000000
+      internalID: 2590906094169424972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_100
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 329
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2e6458a169ea4b0800000000000000
+      internalID: -5427235460285537606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_101
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 177
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306073d66a28c8780800000000000000
+      internalID: -8679418730541283837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_102
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 177
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a065339545ba368a0800000000000000
+      internalID: -6313013873881164278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_103
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 178
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb95d315b1561db0800000000000000
+      internalID: -4821576512889840661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_104
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 177
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255fd77f8dc903940800000000000000
+      internalID: 5273887619329946962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_105
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 178
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32de4aa37148d2490800000000000000
+      internalID: -7769408546841236189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_106
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 178
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510d2f26854cfec80800000000000000
+      internalID: -8291192505069547499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_107
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 177
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6168ca760956a590800000000000000
+      internalID: -7663339831559691925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_108
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 178
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d20226e270ab6e0800000000000000
+      internalID: -1821135203521778309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_109
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 177
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f140b54f78eaac10800000000000000
+      internalID: 2065719012430463480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_110
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 177
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da071210a60810150800000000000000
+      internalID: 5837087784822730925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_111
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 178
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2615a1a8dee8d44e0800000000000000
+      internalID: -1995781908979887774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_112
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 177
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a4ccea44c5f800800000000000000
+      internalID: 645637947676469668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_113
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 177
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082c04dea1b7fef00800000000000000
+      internalID: 1148271785582576256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_114
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 177
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bff8164177c407a0800000000000000
+      internalID: -6411780680147468368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_115
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 178
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a304c4a2f6fc8f0800000000000000
+      internalID: -518073204665730427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_116
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 177
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba0b15360e265420800000000000000
+      internalID: 2618330837558168243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_117
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 177
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf703b4ff23e95d0800000000000000
+      internalID: -3053947425251098692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_118
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 150
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9a0df21004fd6d0800000000000000
+      internalID: -2963579655945147987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_119
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 177
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e76d6bae3429a690800000000000000
+      internalID: -7590495845373614107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_120
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 177
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbcff00231893fcf0800000000000000
+      internalID: -219664748901303105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_121
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 177
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c12bccd13e012b60800000000000000
+      internalID: 7719466843610227145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_122
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 177
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bbc5eab2f7aac10800000000000000
+      internalID: 2065603204688427929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_123
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 178
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945ef4b6bf74f4a50800000000000000
+      internalID: 6507499131736417609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_124
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 243
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e955441f271e560800000000000000
+      internalID: 7341275248149765706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_125
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 177
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a8fa712ba0e03c0800000000000000
+      internalID: -4391560826621818239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_126
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 177
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e61348e099136c0800000000000000
+      internalID: -4165379892714574206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_127
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 178
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8541a89acdac4b0800000000000000
+      internalID: -5419276580862797587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_128
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 177
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b736db721f3e2f910800000000000000
+      internalID: 1869807420205523835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_129
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 177
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b528cc252d186e0800000000000000
+      internalID: -1836955919930205291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_130
+      rect:
+        serializedVersion: 2
+        x: 2277
+        y: 178
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a5210db5aaa4050800000000000000
+      internalID: 5785623982620433034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_131
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 177
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b5054c269c8bce0800000000000000
+      internalID: -1389139059006219431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_132
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 177
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d147283c34e211b0800000000000000
+      internalID: -5687232432124247596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_133
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 177
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462cdfb1364ad9990800000000000000
+      internalID: -7377559868984671644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_134
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 178
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2d7005764e8e5b0800000000000000
+      internalID: -5338766225872268617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_135
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 177
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a5bcd5d55aac8e0800000000000000
+      internalID: -1672342491190568329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_136
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 177
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a247813633123b1d0800000000000000
+      internalID: -3336286394361809878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_137
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 178
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b447f0c65b389ec0800000000000000
+      internalID: -3560030261645720393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_138
+      rect:
+        serializedVersion: 2
+        x: 2835
+        y: 177
+        width: 65
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afcf1c3b510f6bb0800000000000000
+      internalID: -4940728774839775328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_139
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 178
+        width: 16
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07c09f418540fdb0800000000000000
+      internalID: -4760228384442628339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_140
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 243
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5dcbd1ba91a59ff0800000000000000
+      internalID: -29940136727032486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_141
+      rect:
+        serializedVersion: 2
+        x: 3020
+        y: 178
+        width: 98
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12be5ffe02f92320800000000000000
+      internalID: 2533822411600474653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_142
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 178
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21060a7c1983f5900800000000000000
+      internalID: 675320667899453458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_143
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 177
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e6fdae8e3465a20800000000000000
+      internalID: 3050700465242074721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_144
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 177
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e255cd49d57d8f770800000000000000
+      internalID: 8644896281667065134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_145
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 112
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb710036a99ed0d0800000000000000
+      internalID: -3396108129941750804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_146
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 26
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb9426095b55b8f0800000000000000
+      internalID: -525413343605515273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_147
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 26
+        width: 37
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f66873f1b30cbac0800000000000000
+      internalID: -3838188719597656327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_148
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 26
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51a672d1def7bf40800000000000000
+      internalID: 5744340026866966878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_149
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 112
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b61ddece8d898240800000000000000
+      internalID: 4794518922808071858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_150
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 27
+        width: 16
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c831ee9a57c06b30800000000000000
+      internalID: 4278638838028515520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_151
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 27
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3d3e425e94c0960800000000000000
+      internalID: 7569506322218210235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_152
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 26
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3521d41a7c70a30800000000000000
+      internalID: 4181530274633503678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_153
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 27
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2265274cd77c4d7a0800000000000000
+      internalID: -6353233831332260318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_154
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 26
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac955a9359a91880800000000000000
+      internalID: -8639688233596904284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_155
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 26
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f16e8a72f3bf2c0800000000000000
+      internalID: -4396851171627229381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_156
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 26
+        width: 68
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e37cabe7977ce10800000000000000
+      internalID: 2217874926709718655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_157
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 27
+        width: 15
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b6090e88e7994b0800000000000000
+      internalID: -5433172349097579641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_158
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 27
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0808bde81faa2ba0800000000000000
+      internalID: -6112881022599690226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_159
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 27
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35923ee3dacf23a0800000000000000
+      internalID: -6687903910038694598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_160
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 27
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d1b9f16ff7b8ac0800000000000000
+      internalID: -3851844361216385761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnityAnalytics_161
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 27
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f20f343075a129f0800000000000000
+      internalID: -494932582702578957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      UnityAnalytics_0: -571103613619022824
+      UnityAnalytics_1: 3174599870453028914
+      UnityAnalytics_10: -4148448207364469968
+      UnityAnalytics_100: -5427235460285537606
+      UnityAnalytics_101: -8679418730541283837
+      UnityAnalytics_102: -6313013873881164278
+      UnityAnalytics_103: -4821576512889840661
+      UnityAnalytics_104: 5273887619329946962
+      UnityAnalytics_105: -7769408546841236189
+      UnityAnalytics_106: -8291192505069547499
+      UnityAnalytics_107: -7663339831559691925
+      UnityAnalytics_108: -1821135203521778309
+      UnityAnalytics_109: 2065719012430463480
+      UnityAnalytics_11: 8902214811122126020
+      UnityAnalytics_110: 5837087784822730925
+      UnityAnalytics_111: -1995781908979887774
+      UnityAnalytics_112: 645637947676469668
+      UnityAnalytics_113: 1148271785582576256
+      UnityAnalytics_114: -6411780680147468368
+      UnityAnalytics_115: -518073204665730427
+      UnityAnalytics_116: 2618330837558168243
+      UnityAnalytics_117: -3053947425251098692
+      UnityAnalytics_118: -2963579655945147987
+      UnityAnalytics_119: -7590495845373614107
+      UnityAnalytics_12: -4340122576711326671
+      UnityAnalytics_120: -219664748901303105
+      UnityAnalytics_121: 7719466843610227145
+      UnityAnalytics_122: 2065603204688427929
+      UnityAnalytics_123: 6507499131736417609
+      UnityAnalytics_124: 7341275248149765706
+      UnityAnalytics_125: -4391560826621818239
+      UnityAnalytics_126: -4165379892714574206
+      UnityAnalytics_127: -5419276580862797587
+      UnityAnalytics_128: 1869807420205523835
+      UnityAnalytics_129: -1836955919930205291
+      UnityAnalytics_13: -2077851657784379027
+      UnityAnalytics_130: 5785623982620433034
+      UnityAnalytics_131: -1389139059006219431
+      UnityAnalytics_132: -5687232432124247596
+      UnityAnalytics_133: -7377559868984671644
+      UnityAnalytics_134: -5338766225872268617
+      UnityAnalytics_135: -1672342491190568329
+      UnityAnalytics_136: -3336286394361809878
+      UnityAnalytics_137: -3560030261645720393
+      UnityAnalytics_138: -4940728774839775328
+      UnityAnalytics_139: -4760228384442628339
+      UnityAnalytics_14: 8178270435507062721
+      UnityAnalytics_140: -29940136727032486
+      UnityAnalytics_141: 2533822411600474653
+      UnityAnalytics_142: 675320667899453458
+      UnityAnalytics_143: 3050700465242074721
+      UnityAnalytics_144: 8644896281667065134
+      UnityAnalytics_145: -3396108129941750804
+      UnityAnalytics_146: -525413343605515273
+      UnityAnalytics_147: -3838188719597656327
+      UnityAnalytics_148: 5744340026866966878
+      UnityAnalytics_149: 4794518922808071858
+      UnityAnalytics_15: 5549601039674311555
+      UnityAnalytics_150: 4278638838028515520
+      UnityAnalytics_151: 7569506322218210235
+      UnityAnalytics_152: 4181530274633503678
+      UnityAnalytics_153: -6353233831332260318
+      UnityAnalytics_154: -8639688233596904284
+      UnityAnalytics_155: -4396851171627229381
+      UnityAnalytics_156: 2217874926709718655
+      UnityAnalytics_157: -5433172349097579641
+      UnityAnalytics_158: -6112881022599690226
+      UnityAnalytics_159: -6687903910038694598
+      UnityAnalytics_16: 3079746205728257332
+      UnityAnalytics_160: -3851844361216385761
+      UnityAnalytics_161: -494932582702578957
+      UnityAnalytics_17: 2194541175966318386
+      UnityAnalytics_18: -2392518726911382173
+      UnityAnalytics_19: 3680812276124426722
+      UnityAnalytics_2: 4598382914879543274
+      UnityAnalytics_20: -4972862692086868187
+      UnityAnalytics_21: -8393132961512411857
+      UnityAnalytics_22: -629407801327914512
+      UnityAnalytics_23: 4948301519688432175
+      UnityAnalytics_24: 1079333671868487259
+      UnityAnalytics_25: 2242307945846337053
+      UnityAnalytics_26: 1776650197146618069
+      UnityAnalytics_27: -1786016442085926838
+      UnityAnalytics_28: 3484879839083903858
+      UnityAnalytics_29: -4111770315652878177
+      UnityAnalytics_3: -3521117891550610970
+      UnityAnalytics_30: 3617517630615607723
+      UnityAnalytics_31: -6205045017801792721
+      UnityAnalytics_32: -6495470701631874395
+      UnityAnalytics_33: -3622791700316854947
+      UnityAnalytics_34: 3176569056783483748
+      UnityAnalytics_35: 3768708826833261750
+      UnityAnalytics_36: 6029855734582433691
+      UnityAnalytics_37: 2507578156486536202
+      UnityAnalytics_38: 1715925907864436287
+      UnityAnalytics_39: -6460173493540898523
+      UnityAnalytics_4: -493088966459947299
+      UnityAnalytics_40: -1078687941284544251
+      UnityAnalytics_41: 5453218217481173336
+      UnityAnalytics_42: 8264005310885060202
+      UnityAnalytics_43: -193576292952337864
+      UnityAnalytics_44: 8694696056242542947
+      UnityAnalytics_45: -3987192394495461056
+      UnityAnalytics_46: 6427539426328655017
+      UnityAnalytics_47: -4437413106101905786
+      UnityAnalytics_48: 7263898560834874037
+      UnityAnalytics_49: 6182354181459800046
+      UnityAnalytics_5: 1177317134278582798
+      UnityAnalytics_50: 4030204684279388814
+      UnityAnalytics_51: 7311229027900140666
+      UnityAnalytics_52: -7613453892353055854
+      UnityAnalytics_53: -349478868460913302
+      UnityAnalytics_54: -291826010511249445
+      UnityAnalytics_55: 503599961728512543
+      UnityAnalytics_56: 7393529287133995219
+      UnityAnalytics_57: -4045732096679777090
+      UnityAnalytics_58: -1818422340696156508
+      UnityAnalytics_59: 3990298678289811960
+      UnityAnalytics_6: 5357136439035464799
+      UnityAnalytics_60: -4556315826284126098
+      UnityAnalytics_61: 3679728385793154753
+      UnityAnalytics_62: 1816163206479124640
+      UnityAnalytics_63: -8110086992596569553
+      UnityAnalytics_64: 7061987563422465217
+      UnityAnalytics_65: 6858890397167314930
+      UnityAnalytics_66: 8205779137089971357
+      UnityAnalytics_67: -6113247271314843336
+      UnityAnalytics_68: 7018290693609923398
+      UnityAnalytics_69: 5827998002611437832
+      UnityAnalytics_7: 4360762141908744583
+      UnityAnalytics_70: -2587432003851112764
+      UnityAnalytics_71: 2811286265666947111
+      UnityAnalytics_72: -409647060430139592
+      UnityAnalytics_73: 572329734971330627
+      UnityAnalytics_74: 7570748333009241420
+      UnityAnalytics_75: -8402489044219391435
+      UnityAnalytics_76: -2504223525919935912
+      UnityAnalytics_77: 8088326724718561223
+      UnityAnalytics_78: -2698253537919892633
+      UnityAnalytics_79: -2884426424020109858
+      UnityAnalytics_8: 3715345200800597585
+      UnityAnalytics_80: 3918252216965138240
+      UnityAnalytics_81: -7590977916017991252
+      UnityAnalytics_82: 7591722132558106909
+      UnityAnalytics_83: 8889383476994472770
+      UnityAnalytics_84: -1537334623166772026
+      UnityAnalytics_85: -8170382970165676572
+      UnityAnalytics_86: 6500622741180279444
+      UnityAnalytics_87: -4332980986427053844
+      UnityAnalytics_88: -8672649644647095950
+      UnityAnalytics_89: -5618414592400580114
+      UnityAnalytics_9: 5104233815446314268
+      UnityAnalytics_90: -3309499399019218676
+      UnityAnalytics_91: -1105034082441870589
+      UnityAnalytics_92: -7794627549772714331
+      UnityAnalytics_93: 7897498415207258274
+      UnityAnalytics_94: -1684296766516099747
+      UnityAnalytics_95: 379520745848233076
+      UnityAnalytics_96: -4027430281232486579
+      UnityAnalytics_97: 1401149615730082958
+      UnityAnalytics_98: -8632177619013042548
+      UnityAnalytics_99: 2590906094169424972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

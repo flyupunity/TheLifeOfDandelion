@@ -21,12 +21,16 @@ EditorBuildSettings:
     path: Assets/Scenes/GamePlay_2.unity
     guid: f3f718c623c3e724486585281be7f919
   - enabled: 1
-    path: Assets/Scenes/Cut-Scene_3.unity
-    guid: f773d429ee8230f4995604785494c531
-  - enabled: 1
     path: Assets/Scenes/GamePlay_3.unity
     guid: bf913a12293b0d640acdf08df9142f97
   - enabled: 1
+    path: Assets/Scenes/Cut-Scene_4.unity
+    guid: 1d86d227c41aeca4f896c4950d62aa53
+  - enabled: 1
     path: Assets/Scenes/TheEnd.unity
     guid: 8a24eb34b0159e04189ec44167e348c8
+  - enabled: 0
+    path: Assets/Scenes/Cut-Scene_3.unity
+    guid: f773d429ee8230f4995604785494c531
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

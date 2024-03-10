@@ -1,48 +1,28 @@
+using System.Collections;
 using UnityEngine;
 
 public class GP_1_EnemyCreator : MonoBehaviour
 {
-	public GameObject Enemy1;
-	public float Timer1;
-	public float MaxTimer1;
+    [SerializeField] private GameObject _enemyPrefab;
+    [SerializeField] private float _maxTimerValue = 7f;
+    [SerializeField] private float _minTimerValue = 2;
 
-	private int i;
-	private float f;
-	public Sprite[] Sprite;
+    [SerializeField] private Transform[] spawnPoint = null;
 
-	public Transform[] Point;
-	public GameObject[] Obj;
-	[SerializeField] private BoxCollider2D[] _allColliders;
 
 	void Awake()
 	{
-		//MySprite = GetComponent<SpriteRenderer>();
+        StartCoroutine(CreateEnemy());
 	}
-	void Update()
-	{
-		if(Timer1 > 0) Timer1 -= 1f * Time.deltaTime;
+    private IEnumerator CreateEnemy()
+    {
+        float yPos = spawnPoint[Random.Range(0, spawnPoint.Length)].position.y;
 
-		if(Timer1 <= 0){
-			f = Random.Range(Point[0].position.y,Point[1].position.y);
-			GameObject newEnemy1 = Instantiate(Enemy1,new Vector2(Point[0].position.x, f), transform.rotation);
+        GameObject newEnemy = Instantiate(_enemyPrefab, new Vector2(spawnPoint[0].position.x, yPos), transform.rotation);
+        newEnemy.GetComponent<GP_1_Enemy>().SetRandomSprite();
 
-			float o = Random.Range(0.01f,(float)Sprite.Length - 0.01f);
-			i = (int)o;
-
-			newEnemy1.GetComponent<SpriteRenderer>().sprite = Sprite[i];
-			Timer1 = MaxTimer1;
-		}
-		/*Obj = GameObject.FindGameObjectsWithTag("Enemy");
-		_allColliders = new BoxCollider2D[Obj.Length];
-                for (int w = 0; w < Obj.Length; w++) {
-			_allColliders[w] = Obj[w].GetComponent<BoxCollider2D>();
-		}
-                if(_allColliders.Length >= 2){
-			for (int a = 0; a < _allColliders.Length; a++) {
-				for (int b = 0; b < _allColliders.Length; b++) {
-					Physics2D.IgnoreCollision(_allColliders[a], _allColliders[b], true);
-				}
-			}
-		}*/
-	}
+        float time = Random.Range(_minTimerValue, _maxTimerValue);
+        yield return new WaitForSecondsRealtime(time);
+        StartCoroutine(CreateEnemy());
+    }
 }

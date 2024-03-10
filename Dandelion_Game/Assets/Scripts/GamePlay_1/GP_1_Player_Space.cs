@@ -41,7 +41,7 @@ public class GP_1_Player_Space : MonoBehaviour
         MySprite.sprite = Sprite;
     }
 	void OnTriggerEnter2D(Collider2D other){
-		if (other.gameObject.GetComponent<GP_1_Enemy>()){ 
+		if (other.gameObject.tag == "Enemy"){ 
 			GameOver();
 		}
 		if (other.gameObject.GetComponent<Win>()){ 
