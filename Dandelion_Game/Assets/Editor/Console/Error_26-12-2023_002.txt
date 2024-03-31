@@ -1,0 +1,75 @@
+Build completed with a result of 'Failed' in 11468 seconds (11468261 ms)
+Building Library\Bee\artifacts\WebGL\build\debug_WebGL_wasm\build.js failed with output:
+LLVM ERROR: out of memory
+Allocation failed
+PLEASE submit a bug report to https://github.com/llvm/llvm-project/issues/ and include the crash backtrace.
+Stack dump:
+0.	Program arguments: C:/unity_flyup/2023.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/llvm\\wasm-ld.exe @C:\\Users\\1\\AppData\\Local\\Temp\\emscripten_p3nysriq.rsp.utf-8
+1.	Running pass 'Function Pass Manager' on module 'ld-temp.o'.
+2.	Running pass 'WebAssembly Instruction Selection' on function '@AutoCompletePathVisitor_Unity_Properties_IPropertyVisitor_Visit_TisBackgroundSize_t809883E2D7BB1D8D85B4C3E1DBE189F187DB25E7_TisLength_t90BB06D47DD6DB461ED21BD3E3241FAB6C824256_mE7671721BBDFD5D66AF30837699B902CBFDEF447_gshared'
+Exception Code: 0x80000003
+#0 0x00007ff7ef9980a5 
+#1 0x00007ffb91511881 
+#2 0x0000d9c65643d81d 
+#3 0x0000000000006407 
+#4 0x0000000000000016 
+#5 0x00007ff7ef9980a0 
+#6 0x0000000200000008 
+emcc: error: 'C:/unity_flyup/2023.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/BuildTools/Emscripten/llvm\wasm-ld.exe @C:\Users\1\AppData\Local\Temp\emscripten_p3nysriq.rsp.utf-8' failed (returned 2147483651)
+
+0x00007ffb1401a6ad (Unity) StackWalker::ShowCallstack
+0x00007ffb14021f49 (Unity) GetStacktrace
+0x00007ffb1578fb69 (Unity) DebugStringToFile
+0x00007ffb131188bc (Unity) DebugLogHandler_CUSTOM_Internal_Log
+0x000002452d6a7c7d (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log_Injected (UnityEngine.LogType,UnityEngine.LogOption,UnityEngine.Bindings.ManagedSpanWrapper&,intptr)
+0x000002452d6a7b33 (Mono JIT Code) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+0x000002452d6a774b (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x000002452d6a7490 (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x0000024551919235 (Mono JIT Code) UnityEngine.Debug:LogError (object)
+0x000002452f6894a3 (Mono JIT Code) UnityEditor.BuildPlayerWindow/DefaultBuildMethods:BuildPlayer (UnityEditor.BuildPlayerOptions)
+0x000002452f68433b (Mono JIT Code) UnityEditor.BuildPlayerWindow:CallBuildMethods (bool,UnityEditor.BuildOptions)
+0x000002452f3faacb (Mono JIT Code) UnityEditor.BuildPlayerWindow:GUIBuildButtons (UnityEditor.Modules.IBuildWindowExtension,bool,bool,bool,UnityEditor.Build.BuildPlatform,UnityEditor.Modules.IBuildPostprocessor)
+0x000002452f3f2233 (Mono JIT Code) UnityEditor.BuildPlayerWindow:ShowBuildTargetSettings ()
+0x000002452e15863b (Mono JIT Code) UnityEditor.BuildPlayerWindow:OnGUI ()
+0x0000024504330282 (Mono JIT Code) UnityEditor.HostView:InvokeOnGUI (UnityEngine.Rect)
+0x000002452d008be3 (Mono JIT Code) UnityEditor.DockArea:DrawView (UnityEngine.Rect)
+0x000002452cfff37b (Mono JIT Code) UnityEditor.DockArea:OldOnGUI ()
+0x0000024504310a27 (Mono JIT Code) UnityEngine.UIElements.IMGUIContainer:DoOnGUI (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,bool,UnityEngine.Rect,System.Action,bool)
+0x000002450430e33b (Mono JIT Code) UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,UnityEngine.Matrix4x4,UnityEngine.Rect,System.Action,bool)
+0x000002450430d7fb (Mono JIT Code) UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,System.Action,bool)
+0x000002450430d653 (Mono JIT Code) UnityEngine.UIElements.IMGUIContainer:HandleIMGUIEvent (UnityEngine.Event,bool)
+0x000002450430d16b (Mono JIT Code) UnityEngine.UIElements.IMGUIContainer:SendEventToIMGUIRaw (UnityEngine.UIElements.EventBase,bool,bool)
+0x000002450430cff3 (Mono JIT Code) UnityEngine.UIElements.IMGUIContainer:SendEventToIMGUI (UnityEngine.UIElements.EventBase,bool,bool)
+0x0000024503e2c753 (Mono JIT Code) UnityEngine.UIElements.IMGUIContainer:HandleEventBubbleUp (UnityEngine.UIElements.EventBase)
+0x000002452ceb808c (Mono JIT Code) UnityEngine.UIElements.EventDispatchUtilities:HandleEventAcrossPropagationPathWithCompatibilityEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.VisualElement,bool)
+0x000002452ceb6bab (Mono JIT Code) UnityEngine.UIElements.EventDispatchUtilities:DispatchToCapturingElementOrElementUnderPointer (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,int,UnityEngine.Vector2)
+0x000002452ceb67bb (Mono JIT Code) UnityEngine.UIElements.PointerEventBase`1<T_REF>:Dispatch (UnityEngine.UIElements.BaseVisualElementPanel)
+0x0000024503f5b4f7 (Mono JIT Code) UnityEngine.UIElements.EventDispatcher:ProcessEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel)
+0x0000024503f570d3 (Mono JIT Code) UnityEngine.UIElements.EventDispatcher:Dispatch (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.BaseVisualElementPanel,UnityEngine.UIElements.DispatchMode)
+0x0000024503f56f73 (Mono JIT Code) UnityEngine.UIElements.BaseVisualElementPanel:SendEvent (UnityEngine.UIElements.EventBase,UnityEngine.UIElements.DispatchMode)
+0x00000245042ef05b (Mono JIT Code) UnityEngine.UIElements.UIElementsUtility:DoDispatch (UnityEngine.UIElements.BaseVisualElementPanel)
+0x00000245042ee8c3 (Mono JIT Code) UnityEngine.UIElements.UIElementsUtility:UnityEngine.UIElements.IUIElementsUtility.ProcessEvent (int,intptr,bool&)
+0x00000245042ee67f (Mono JIT Code) UnityEngine.UIElements.UIEventRegistration:ProcessEvent (int,intptr)
+0x00000245042ee59b (Mono JIT Code) UnityEngine.UIElements.UIEventRegistration/<>c:<.cctor>b__1_2 (int,intptr)
+0x00000245042ee3a3 (Mono JIT Code) UnityEngine.GUIUtility:ProcessEvent (int,intptr,bool&)
+0x00000245042ee4a6 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_int_intptr_intptr& (object,intptr,intptr,intptr)
+0x00007ffb1c84694e (mono-2.0-bdwgc) mono_jit_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/mini/mini-runtime.c:3445)
+0x00007ffb1c788464 (mono-2.0-bdwgc) do_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3068)
+0x00007ffb1c788550 (mono-2.0-bdwgc) mono_runtime_invoke (at C:/build/output/Unity-Technologies/mono/mono/metadata/object.c:3115)
+0x00007ffb13f44794 (Unity) scripting_method_invoke
+0x00007ffb13f1f7e3 (Unity) ScriptingInvocation::Invoke
+0x00007ffb13f1aa75 (Unity) ScriptingInvocation::Invoke<void>
+0x00007ffb1404e35a (Unity) Scripting::UnityEngine::GUIUtilityProxy::ProcessEvent
+0x00007ffb14a3d998 (Unity) GUIView::ProcessRetainedMode
+0x00007ffb150784e5 (Unity) GUIView::OnInputEvent
+0x00007ffb14a3d8e3 (Unity) GUIView::ProcessInputEventFromAPI
+0x00007ffb14a3d75e (Unity) GUIView::ProcessInputEvent
+0x00007ffb15078df0 (Unity) GUIViewPlatform::ProcessEventMessages
+0x00007ffb15076445 (Unity) GUIViewPlatform::GUIViewWndProc
+0x00007ffb92aee858 (USER32) CallWindowProcW
+0x00007ffb92aee299 (USER32) DispatchMessageW
+0x00007ffb150531e3 (Unity) MainMessageLoop
+0x00007ffb1505922d (Unity) UnityMain
+0x00007ff7cead2cda (Unity) __scrt_common_main_seh
+0x00007ffb92377344 (KERNEL32) BaseThreadInitThunk
+0x00007ffb93a426b1 (ntdll) RtlUserThreadStart

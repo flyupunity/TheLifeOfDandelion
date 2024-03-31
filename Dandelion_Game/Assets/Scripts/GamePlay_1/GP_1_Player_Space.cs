@@ -33,7 +33,7 @@ public class GP_1_Player_Space : MonoBehaviour
     }
 
     public void Win(){
-	SceneManager.LoadScene(3);
+	SceneManager.LoadScene("Cut-Scene_2");
     }
     public void GameOver(){
 	Time.timeScale = 0f;

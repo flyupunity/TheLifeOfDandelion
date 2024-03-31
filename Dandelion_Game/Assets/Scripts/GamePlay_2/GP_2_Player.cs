@@ -11,8 +11,8 @@ public class GP_2_Player : MonoBehaviour
 
     public float MProgress = 10f;
     public float MHealth = 10f;
-    public float MSun = 10f;
-    public float MRain = 10f;
+    public float MSun = 5f;
+    public float MRain = 5f;
 
     public float Progress;
     public float Health;
@@ -56,11 +56,11 @@ public class GP_2_Player : MonoBehaviour
         MyTrigger.offset = new Vector2(0, 0.322f * ((float)i + 1) );*/
 
         if(Progress > MProgress) Progress = MProgress;
-        if(Health > 0f && Sun > 0f && Rain > 0f && Progress < MProgress) Progress += 0.125f * Time.deltaTime;
+        if(Health > 0f && Sun > 0f && Rain > 0f && Progress < MProgress) Progress += 0.1f * Time.deltaTime;
         if(Health <= 0f && Progress >= 0f) Progress -= 0.075f * Time.deltaTime;
 
         if(Health > MHealth) Health = MHealth;
-        if(Health < MHealth && Sun > 0f && Rain > 0f) Health += 0.5f * Time.deltaTime;
+        if(Health < MHealth && Sun > 0f && Rain > 0f) Health += 0.1f * Time.deltaTime;
         if(Health >= 0f){
             if(Rain <= 0f) Health -= 0.5f * Time.deltaTime;
             if(Sun <= 0f) Health -= 0.25f * Time.deltaTime;
@@ -92,7 +92,7 @@ public class GP_2_Player : MonoBehaviour
         IsRain = false;
     }
     public void Win(){
-	SceneManager.LoadScene(5);
+	SceneManager.LoadScene("GamePlay_3");
     }
     public void GameOver(){
 	Time.timeScale = 0f;
@@ -104,6 +104,14 @@ public class GP_2_Player : MonoBehaviour
 		}
 		if (other.gameObject.GetComponent<GP_2_3_Enemy>().Types == 2){ 
 			Health -= 2;
+		}
+	}
+    void OnTriggerStay2D(Collider2D other){
+		if (other.gameObject.GetComponent<GP_2_3_Enemy>().Types == 1){ 
+			Health -= 0.05f * Time.deltaTime;
+		}
+		if (other.gameObject.GetComponent<GP_2_3_Enemy>().Types == 2){ 
+			Health -= 0.1f * Time.deltaTime;
 		}
 	}
     /*public void Health(float Health, float Max, float PlysInSecond, bool True)
