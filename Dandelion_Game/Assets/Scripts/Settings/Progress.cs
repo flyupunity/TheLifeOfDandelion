@@ -31,6 +31,7 @@ public class Progress : MonoBehaviour
     public bool adShowing = false;
     public bool gameInPause = false;
     public bool playerAuthorized = false;
+    public bool eventTest = false;
 
     /*[DllImport("__Internal")]
     private static extern void CheckAuthorization();*/
@@ -51,6 +52,8 @@ public class Progress : MonoBehaviour
             Instance = this;
             //LoadExtern();
             LoadDataFromPlayerPrefs();
+            StartCoroutine(WaitOneSecond());
+            if(eventTest) print($"Awake event in '{SceneManager.GetActiveScene().name}' scene");
         }else{
             Destroy(gameObject);
         }
@@ -61,19 +64,30 @@ public class Progress : MonoBehaviour
             PlayerInfo.maxLevelIndex[0] = true;
             Debug.LogWarning("maxLevelIndex[0] == false");
         }
-        if(SceneManager.sceneName == "Cut-Scene_1" || "GamePlay_1"){
-            PlayerInfo.maxLevelIndex[0] = true;
-            Save_PlayerPrefs();
-        } else if(SceneManager.sceneName == "Cut-Scene_2" || "GamePlay_2"){
-            PlayerInfo.maxLevelIndex[1] = true;
-            Save_PlayerPrefs();
-        }else if(SceneManager.sceneName == "Cut-Scene_3" || "GamePlay_3"){
-            PlayerInfo.maxLevelIndex[2] = true;
-            Save_PlayerPrefs();
-        }
+        SaveBoolSceneValue();
+        if(eventTest) print($"Start event in '{SceneManager.GetActiveScene().name}' scene");
     }
     private void Update() {
         //CheckAuthorization();
+    }
+    private IEnumerator WaitOneSecond() {
+        //CheckAuthorization();
+        SaveBoolSceneValue();
+        yield return new WaitForSeconds(1f);
+        StartCoroutine(WaitOneSecond());
+    }
+    private void SaveBoolSceneValue() {
+        if(SceneManager.GetActiveScene().name == "Cut-Scene_1" || SceneManager.GetActiveScene().name == "GamePlay_1"){
+            PlayerInfo.maxLevelIndex[0] = true;
+            Save_PlayerPrefs();
+        } else if(SceneManager.GetActiveScene().name == "Cut-Scene_2" || SceneManager.GetActiveScene().name == "GamePlay_2"){
+            PlayerInfo.maxLevelIndex[1] = true;
+            Save_PlayerPrefs();
+        }else if(SceneManager.GetActiveScene().name == "Cut-Scene_3" || SceneManager.GetActiveScene().name == "GamePlay_3"){
+            PlayerInfo.maxLevelIndex[2] = true;
+            Save_PlayerPrefs();
+        }
+        if(eventTest) print($"'SaveBoolSceneValue' event in '{SceneManager.GetActiveScene().name}' scene");
     }
     /*public void AuthorizationStatus(bool value){
         playerAuthorized = value;
