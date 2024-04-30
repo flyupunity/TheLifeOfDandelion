@@ -19,8 +19,6 @@ public class Yandex : MonoBehaviour
 
     [DllImport("__Internal")]
     private static extern void ShowFullScreenYandexAd();
-    [DllImport("__Internal")]
-    private static extern void ShowFullScreenYandexAd_unlock();
 
     private void Awake()
     {
@@ -39,9 +37,5 @@ public class Yandex : MonoBehaviour
     public void ShowFullScreenAd()
     {
         ShowFullScreenYandexAd();
-    }
-    public void ShowFullScreenAd_unlock()
-    {
-        ShowFullScreenYandexAd_unlock();
     }
 }

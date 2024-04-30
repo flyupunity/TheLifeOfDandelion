@@ -5,40 +5,23 @@ mergeInto(LibraryManager.library, {
         console.log("Hello, world!");
     },
     ShowFullScreenYandexAd: function() {
-        myGameInstance.SendMessage('Manager', 'AdStarted');
+        //myGameInstance.SendMessage('Manager', 'AdStarted');
+        myGameInstance.SendMessage('Progress', 'AdStarted');
         YaGames.init().then(ysdk => {
-            myGameInstance.SendMessage('Manager', 'AdStarted');
+            //myGameInstance.SendMessage('Manager', 'AdStarted');
+            myGameInstance.SendMessage('Progress', 'AdStarted');
             ysdk.adv.showFullscreenAdv({
                 callbacks: {
                     onClose: function(wasShown) {
                         // some action after close
-                        myGameInstance.SendMessage('Manager', 'AdEnded');
+                        //myGameInstance.SendMessage('Manager', 'AdEnded');
+                        myGameInstance.SendMessage('Progress', 'AdEnded');
                         //myGameInstance.SendMessage('Progress', 'SimulationStandbyModeStatus');
                     },
                     onError: function(error) {
                         // some action on error
-                        myGameInstance.SendMessage('Manager', 'AdEnded');
-                        //myGameInstance.SendMessage('Progress', 'SimulationStandbyModeStatus');
-                        console.log(error);
-                    }
-                }
-            })
-        });
-    },
-    ShowFullScreenYandexAd_unlock: function() {
-        myGameInstance.SendMessage('Manager', 'AdStarted');
-        YaGames.init().then(ysdk => {
-            myGameInstance.SendMessage('Manager', 'AdStarted');
-            ysdk.adv.showFullscreenAdv({
-                callbacks: {
-                    onClose: function(wasShown) {
-                        // some action after close
-                        myGameInstance.SendMessage('Manager', 'AdEnded_unlock');
-                        //myGameInstance.SendMessage('Progress', 'SimulationStandbyModeStatus');
-                    },
-                    onError: function(error) {
-                        // some action on error
-                        myGameInstance.SendMessage('Manager', 'AdEnded_unlock');
+                        //myGameInstance.SendMessage('Manager', 'AdEnded');
+                        myGameInstance.SendMessage('Progress', 'AdEnded');
                         //myGameInstance.SendMessage('Progress', 'SimulationStandbyModeStatus');
                         console.log(error);
                     }

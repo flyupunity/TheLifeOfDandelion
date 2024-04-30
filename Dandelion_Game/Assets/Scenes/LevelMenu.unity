@@ -169,7 +169,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.1428083, g: 0.3773585, b: 0.023139918, a: 0.53333336}
+  m_Color: {r: 0.1428083, g: 0.3773585, b: 0.023139918, a: 0.36862746}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1545,7 +1545,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.04705883, g: 0.2509804, b: 0, a: 0.6666667}
+  m_Color: {r: 0.04705883, g: 0.2509804, b: 0, a: 0.45882353}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1620,7 +1620,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.18431373, g: 0.5019608, b: 0, a: 0.7019608}
+  m_Color: {r: 0.18431373, g: 0.5019608, b: 0, a: 0.3764706}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1841,6 +1841,7 @@ GameObject:
   - component: {fileID: 1713647518}
   - component: {fileID: 1713647517}
   - component: {fileID: 1713647519}
+  - component: {fileID: 1713647520}
   m_Layer: 0
   m_Name: Manager
   m_TagString: Manager
@@ -1891,6 +1892,19 @@ MonoBehaviour:
   englishTag: Text_Russia
   objectsRussian: []
   objectsEnglish: []
+--- !u!114 &1713647520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713647516}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8ef4ce667a218d48a02374a56f20b63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 1
 --- !u!1001 &1794127669
 PrefabInstance:
   m_ObjectHideFlags: 0
