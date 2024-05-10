@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blenderii.blend0001_original_0: -4842083525641964503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -16,7 +16,7 @@ public class GP_2_3_Enemy : MonoBehaviour
 
 	private void Awake()
 	{
-                HP = MaxHP;
+        HP = MaxHP;
 		m_Rigidbody2D = GetComponent<Rigidbody2D>();
 	}
 
@@ -30,6 +30,6 @@ public class GP_2_3_Enemy : MonoBehaviour
 		m_Rigidbody2D.AddRelativeForce((PlayerT.transform.position - transform.position * 0.1f) * Speed);
 	}
         void OnMouseDown(){
-            HP -= 1;
+            if(Time.timeScale != 0f) HP -= 1;
         }
 }

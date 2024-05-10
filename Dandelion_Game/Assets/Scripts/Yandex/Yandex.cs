@@ -24,18 +24,25 @@ public class Yandex : MonoBehaviour
     {
         if (type == AdType.awake && type != AdType.script)
         {
-            ShowFullScreenYandexAd();
+            StartCoroutine(ShowFullScreenYandexAdCoroutine());
         }
     }
     private void Start()
     {
         if (type == AdType.start && type != AdType.script)
         {
-            ShowFullScreenYandexAd();
+            StartCoroutine(ShowFullScreenYandexAdCoroutine());
         }
     }
     public void ShowFullScreenAd()
     {
+        StartCoroutine(ShowFullScreenYandexAdCoroutine());
+    }
+    private IEnumerator ShowFullScreenYandexAdCoroutine()
+    {
+        GameObject windowObj = Instantiate(VariableValuePasser.Instance.prefabAdWarnings);
+        yield return new WaitForSeconds(5);
+        Destroy(windowObj);
         ShowFullScreenYandexAd();
     }
 }

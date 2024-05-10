@@ -23,13 +23,13 @@ public class GP_1_Player_Space : MonoBehaviour
     void Update()
     {
         //Rid.AddForce(new Vector2(GlobalForce,0f));
-        if(Input.GetKeyDown(Space) || Input.GetKeyDown(Mouse)){
+        if(Time.timeScale != 0f && (Input.GetKeyDown(Space) || Input.GetKeyDown(Mouse))){
             Rid.AddForce(new Vector2(0f,Force));
         }
     }
     void FixedUpdate()
     {
-         if(Time.timeScale != 0f) transform.position = Vector2.MoveTowards(transform.position, I.position, 1f * GlobalForce);
+        if(Time.timeScale != 0f) transform.position = Vector2.MoveTowards(transform.position, I.position, 1f * GlobalForce);
     }
 
     public void Win(){
